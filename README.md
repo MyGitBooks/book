@@ -15,7 +15,7 @@
 
 ## 一、优质书籍
 
-* [:coffee: Kafka技术内幕](/notes/Kafka技术内幕.pdf)
+* [:coffee: Kafka技术内幕(提取码: 5n4m)](https://pan.baidu.com/s/1B1KI3QzQEls3c4IsDZV2MA)
 
 ## 二、转载分享
 
